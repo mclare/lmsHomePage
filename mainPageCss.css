@@ -72,7 +72,7 @@ h3{font-size:24px;}
 p{margin:0 0 10px;}
 ul{margin-top:0;margin-bottom:10px;}
 ul ul{margin-bottom:0;}
-address{margin-bottom:20px;font-style:normal;line-height:1.42857;}
+address{margin-bottom:8px;font-style:normal;line-height:1.42857;}
 label{display:inline-block;max-width:100%;margin-bottom:5px;font-weight:bold;}
 input[type="checkbox"]{margin:4px 0 0;margin-top:1px \9;line-height:normal;}
 input[type="checkbox"]:focus{outline:5px auto Highlight;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px;}
